@@ -2,3 +2,4 @@ spark.appName = lending_club
 spark.executor.memory = 10G
 spark.executor.cores = 5
 # changes
+its fine
